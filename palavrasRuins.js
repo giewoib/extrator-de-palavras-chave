@@ -121,4 +121,15 @@ export const PALAVRAS_RUINS = new Set([
     "uma vez",
     "segundo",
     "junto"
+    "terror"
+    "ação",
+    "pois",
+    "ficção",
+    "filme",
+    "romance",
+    "animação",
+    "medo",
+    "história",
+    "favorito",
+        
 ]);
